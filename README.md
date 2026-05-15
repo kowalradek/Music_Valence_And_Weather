@@ -1,7 +1,7 @@
 # 🌍 The Weather Vibe Check: How Climate Shapes the Music We Stream
 
-[Click here to view the Interactive Tableau Dashboard]([https://public.tableau.com/views/DeosWeatherActaullyChangetheMoodofOurMusic/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link])
-[LinkedIn]([https://www.linkedin.com/in/rados%C5%82aw-kowal-098663300/])
+[![Interactive Tableau Dashboard](https://img.shields.io/badge/Tableau-View_Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/DeosWeatherActaullyChangetheMoodofOurMusic/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[![LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-kowal-098663300/)
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ The final results, including interactive moderation maps and correlation scatter
 ## Data Architecture & Pipeline
 This project required combining static datasets with live API calls to build a comprehensive analytical view.
 
-* **Base Data:** Spotify Top 200 Charts (Sourced via Kaggle). **[Click here for it]([(https://www.kaggle.com/datasets/dhruvildave/spotify-charts)])**
+* **Base Data:** Spotify Top 200 Charts (Sourced via Kaggle). **[Click here for it](https://www.kaggle.com/datasets/dhruvildave/spotify-charts)**
 * **Audio Features Enrichment:** Utilized the **Last.fm API** to extract specific audio features, to get valence **Valence** (the musical positiveness conveyed by a track, scored 0.0 to 1.0).
 * **Weather Data Extraction:** Polled the **Meteo API** to pull historical daily weather metrics (Temperature, Sun Hours, Rain Mm) for the capital cities of the 20 European countries analyzed.
 * **Data Cleaning & Merging:** Handled in Python using `pandas`, ensuring dates and regions aligned perfectly across all three data sources.
