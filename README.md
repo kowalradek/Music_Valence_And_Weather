@@ -1,7 +1,7 @@
 # 🌍 The Weather Vibe Check: How Climate Shapes the Music We Stream
 
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-View_Dashboard-E97627?style=for-the-badge&logo=tableau)]([https://public.tableau.com/views/DeosWeatherActaullyChangetheMoodofOurMusic/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/rados%C5%82aw-kowal-098663300/])
+[[Tableau Dashboard]([https://public.tableau.com/views/DeosWeatherActaullyChangetheMoodofOurMusic/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link])
+[[LinkedIn]([https://www.linkedin.com/in/rados%C5%82aw-kowal-098663300/])
 
 ## Project Overview
 
