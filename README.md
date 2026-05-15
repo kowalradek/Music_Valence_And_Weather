@@ -1,7 +1,7 @@
 # 🌍 The Weather Vibe Check: How Climate Shapes the Music We Stream
 
-[[Tableau Dashboard]([https://public.tableau.com/views/DeosWeatherActaullyChangetheMoodofOurMusic/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link])
-[[LinkedIn]([https://www.linkedin.com/in/rados%C5%82aw-kowal-098663300/])
+ **[Click here to view the Interactive Tableau Dashboard]([https://public.tableau.com/views/DeosWeatherActaullyChangetheMoodofOurMusic/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link])**
+**[LinkedIn]([https://www.linkedin.com/in/rados%C5%82aw-kowal-098663300/])**
 
 ## Project Overview
 
@@ -9,8 +9,7 @@ This full-stack data analytics project explores the hidden relationship between 
 
 ### Try the Interactive Dashboard
 The final results, including interactive moderation maps and correlation scatter plots, are visualized in Tableau.
- **[Click here to view the Interactive Tableau Dashboard]([https://public.tableau.com/views/DeosWeatherActaullyChangetheMoodofOurMusic/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link])**
- 
+
  <img width="740" height="1012" alt="tableau_image" src="https://github.com/user-attachments/assets/bd02f04c-5e26-435f-9ef3-a63f0e9aa92b" />
 ---
 
